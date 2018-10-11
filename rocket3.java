@@ -1,3 +1,4 @@
+//this code is perfecto.
 public class rocket3 {
 	public static final int SCALE = 3;
 // Create a static integer that won't be hardcoded
