@@ -1,3 +1,4 @@
+//the name of the class of the java file is rocket3
 public class rocket3 {
 	public static final int SCALE = 3;
 // Create a static integer that won't be hardcoded
@@ -13,7 +14,8 @@ public class rocket3 {
 		drawDivider();
 		drawCone();
 	}
-// the first string is assigned as an integer for the outer for loop
+//This file makes a rocket using a bunch of methods made by eddy.	
+
 // make a nested for loop that will print out the spaces, lines,slashes and stars
 	public static void drawCone() {
 		for (int line = 1; line <= (SCALE * 2 - 1); line++) {
